@@ -5,7 +5,7 @@ import './Pokeflex.css'
 const Pokeflex = () => {
 
     return (
-        <div>
+        <div className='Pokeflex'>
             <img src={poke} />
              <img src={eevee} />
               <img src={poke} />

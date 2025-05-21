@@ -1,8 +1,9 @@
-div{
-    display: flex;
+.Pokegrid{
+    display: grid;
+    grid-template-columns: 100px 100px;
     flex-direction: column;
     flex-wrap: nowrap;
-    background-color: red;
+    background-color: yellow;
     width: 400px;
     height: 300px;
     overflow: auto;
