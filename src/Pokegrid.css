@@ -1,6 +1,7 @@
 .Pokegrid{
     display: grid;
     grid-template-columns: 100px 100px;
+    gap: 20px;
     flex-direction: column;
     flex-wrap: nowrap;
     background-color: yellow;
