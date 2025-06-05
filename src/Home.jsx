@@ -10,6 +10,8 @@ const Home = () => {
         <div>
            <Pokegrid />
            <Pokeflex />
+           <Pokegrid />
+           <Pokeflex />
         </div>
     )
 }
